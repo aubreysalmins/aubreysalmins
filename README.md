@@ -1,4 +1,4 @@
-Hi 👋 My name is Aubrey Salmins
+Hi my name is Aubrey Salmins
 ===============================
 
 I'm a creative and current student at Makers Academy
