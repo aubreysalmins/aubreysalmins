@@ -1,4 +1,4 @@
-Hi, my name is Aubrey Salmins
+<!-- Hi, my name is Aubrey Salmins
 ===============================
 
 I'm a creative and current student at Makers Academy
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
