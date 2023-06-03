@@ -1,7 +1,7 @@
 Hi 👋 My name is Aubrey Salmins
 ===============================
 
-I'm a creative and recent graduate of Makers Academy
+I'm a creative and current student at Makers Academy
 ----------------------------------------------------
 
 * 🌍  I'm based in Bristol, UK
