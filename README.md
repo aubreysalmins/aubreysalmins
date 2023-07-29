@@ -7,6 +7,9 @@ I'm a recent graduate of Makers Academy
 * 🌍  I'm based in Bristol, UK
 * ✉️  You can contact me at [aubreysalmins@gmail.com](mailto:aubreysalmins@gmail.com)
 
+The culmination of Makers Academy was a collaborative project, where my team of 7 built a local, 2-player Battle Tetris game in vanilla JavaScript. The whole process from ideation to hosting took two weeks and I'm proud to be able to show it here: https://michael-szczepanski.itch.io/battle-tetris
+
+
 ### Skills
 
 <p align="left">
