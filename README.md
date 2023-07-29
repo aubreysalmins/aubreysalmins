@@ -1,7 +1,7 @@
-<!-- Hi, my name is Aubrey Salmins
+Hi, my name is Aubrey Salmins
 ===============================
 
-I'm a creative and current student at Makers Academy
+I'm a recent graduate of Makers Academy
 ----------------------------------------------------
 
 * 🌍  I'm based in Bristol, UK
